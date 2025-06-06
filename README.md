@@ -1,2 +1,2 @@
 # CashRegisterFinalProj
-requirement for final exam
+proj. for Coprog2
