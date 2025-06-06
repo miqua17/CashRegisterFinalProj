@@ -1,0 +1,122 @@
+Date/Time: 2025-06-06 11:33:14
+Cashier: micoelojay23
+
+===== Receipt =====
+apple - 2 x PHP23.0 = PHP46.0
+orange - 4 x PHP20.0 = PHP80.0
+lemon - 2 x PHP52.0 = PHP104.0
+---------------------
+Total Price: PHP230.0
+====================================
+
+Date/Time: 2025-06-06 11:39:01
+Cashier: keiramaxine23
+
+===== Receipt =====
+apple - 23 x PHP23.0 = PHP529.0
+lemon - 23 x PHP23.0 = PHP529.0
+---------------------
+Total Price: PHP1058.0
+====================================
+
+
+Date/Time: 2025-06-06 14:59:25
+Cashier: micoelojay23
+
+===== Receipt =====
+jar - 2 x PHP232.0 = PHP464.0
+monkey - 500 x PHP2.0 = PHP1000.0
+---------------------
+Total Price: PHP1464.0
+====================================
+
+Date/Time: 2025-06-06 15:56:53
+Cashier: mjay23
+
+===== Receipt =====
+sdsds - 232 x PHP232.0 = PHP53824.0
+dsds - 232 x PHP232.0 = PHP53824.0
+---------------------
+Total Price: PHP107648.0
+Total Payment: PHP2.32323223E8
+Change: PHP2.32215575E8
+====================================
+
+Date/Time: 2025-06-06 16:01:41
+Cashier: mjay23
+
+===== Receipt =====
+sadsa - 23232 x PHP2323232.0 = PHP5.3973325824E10
+fdfd - 232 x PHP232.0 = PHP53824.0
+s - 2 x PHP2.0 = PHP4.0
+s - 2 x PHP2.0 = PHP4.0
+---------------------
+Total Price: PHP5.3973379656E10
+Total Payment: PHP2.323232323232323E77
+Change: PHP2.323232323232323E77
+====================================
+
+Date/Time: 2025-06-06 16:01:59
+Cashier: mjay23
+
+===== Receipt =====
+sds - 232 x PHP2323.0 = PHP538936.0
+---------------------
+Total Price: PHP538936.0
+Total Payment: PHP2.3232312321314415E39
+Change: PHP2.3232312321314415E39
+====================================
+
+Date/Time: 2025-06-06 17:28:09
+Cashier: micoelojay23
+
+===== Receipt =====
+sdsds - 232 x PHP232.0 = PHP53824.0
+232 - 232 x PHP232.0 = PHP53824.0
+232 - 232 x PHP232.0 = PHP53824.0
+---------------------
+Total Price: PHP161472.0
+Total Payment: PHP2.3232323232E10
+Change: PHP2.323216176E10
+====================================
+
+Date/Time: 2025-06-06 19:12:16
+Cashier: micoelojay23
+
+===== Receipt =====
+chicken - 2 x PHP200.0 = PHP400.0
+ice tea - 1 x PHP200.0 = PHP200.0
+fries - 1 x PHP200.0 = PHP200.0
+---------------------
+Total Price: PHP800.0
+Total Payment: PHP1000.0
+Change: PHP200.0
+====================================
+
+Date/Time: 2025-06-06 19:15:59
+Cashier: mjay23
+
+===== Receipt =====
+burger - 2 x PHP200.0 = PHP400.0
+chicken - 1 x PHP200.0 = PHP200.0
+ice tea - 1 x PHP200.0 = PHP200.0
+---------------------
+Total Price: PHP800.0
+Total Payment: PHP1000.0
+Change: PHP200.0
+====================================
+
+Date/Time: 2025-06-06 19:17:00
+Cashier: mjay23
+
+===== Receipt =====
+milk tea - 1 x PHP200.0 = PHP200.0
+ice tea - 1 x PHP200.0 = PHP200.0
+orange juice - 1 x PHP200.0 = PHP200.0
+burger steak - 1 x PHP200.0 = PHP200.0
+---------------------
+Total Price: PHP800.0
+Total Payment: PHP2000.0
+Change: PHP1200.0
+====================================
+
